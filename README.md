@@ -1,5 +1,5 @@
 # Hi✌️ I am saumya...
-> *just another node in the network, but with purpose*
+> *...just another node, but with a purpose*
 ---
 
 ### 🎯 Learning and Skills
