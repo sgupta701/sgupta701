@@ -2,6 +2,8 @@
 > *...just another node, but with a purpose*
 ---
 
+![Pixel Buddy](https://…/funny-pixel-buddy.gif)
+
 ### 🎯 Learning and Skills
 
 Currently exploring:  
