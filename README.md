@@ -81,6 +81,3 @@ Building it using OpenCV, MediaPipe, and deep learning — and training it on a 
 
 
 
-
-
-
