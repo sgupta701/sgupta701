@@ -1,11 +1,13 @@
 # Hi✌️ I am saumya... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;
-> *...just another node, but with a purpose* 
----
+> *...just another node, but with a purpose*
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ![image](https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98)
 
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 ### 🎯 Learning and Skills <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
----
 
 Currently exploring:  
 **Generative AI**, **LangChain**, **Deep Learning**
@@ -28,7 +30,7 @@ Comfortable with:
   <img alt="MLP" src="https://img.shields.io/badge/MLP-00CED1?style=for-the-badge" />
 </p>
 
----
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ### 🚧 Currently building: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="35">&nbsp; 
 
@@ -44,12 +46,13 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 
 </details>
 
----
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 #### *umm... there's a snake here.. & it's kinda starving... but i'll feed it well soon* 
 
 ![snake gif](https://github.com/sgupta701/sgupta701/blob/output/github-snake-dark.svg)
 
----
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ### 📫 Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
@@ -65,6 +68,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
   </a>
 </p>
 
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 <p align="center" style="font-style: italic; color: gray;">
   <em>Always learning. Always shipping.</em>
