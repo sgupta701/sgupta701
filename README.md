@@ -3,7 +3,7 @@
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-<img src="https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98" height="300" width="1000">
+<img src="https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98" height="250" width="1000">
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
