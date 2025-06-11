@@ -6,7 +6,7 @@
 
 ---
 
-### 🎯 Learning and Skills <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
+### 🎯 Learning and Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="35">&nbsp; 
 
 Currently exploring:  
 **Generative AI**, **LangChain**, **Deep Learning**
@@ -31,7 +31,7 @@ Comfortable with:
 
 ---
 
-### 🚧 Currently building: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="35">&nbsp; 
+### 🚧 Currently building: <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
 
 <details>
 <summary><strong>🚧 Hands2Text</strong> — Real-time ASL to Subtitles <sub>(click to expand)</sub></summary>
