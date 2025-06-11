@@ -1,10 +1,10 @@
-# Hi✌️ I am saumya... <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="40">
+# Hi✌️ I am saumya... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;
 > *...just another node, but with a purpose* 
 ---
 
 ![image](https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98)
 
-### 🎯 Learning and Skills
+### 🎯 Learning and Skills <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
 ---
 
 Currently exploring:  
@@ -33,22 +33,38 @@ Comfortable with:
 ### 🚧 Currently building: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="35">&nbsp; 
 
 <details>
-<summary><strong>Hands2Text</strong> — Real-time ASL Sign-to-Text converter</summary>
+<summary><strong>🚧 Hands2Text</strong> — Real-time ASL to Subtitles <sub>(click to expand)</sub></summary>
+<br>
+A tool that turns ASL gestures into live, readable subtitles — not just alphabets, but full dynamic gestures.
 
-A tool that captures American Sign Language gestures and converts them into text in real time.  
-Building it using OpenCV, MediaPipe, and deep learning — and training it on a custom dataset i collected and labeled myself for higher accuracy.
+- ✋ Recognizes full ASL dynamic gestures 
+- 🧠 Converts gesture sequences into full English sentences
+- 🫶 Makes ASL understandable to non-signers
+- 🎥 Built using OpenCV, MediaPipe, and deep learning
 
 </details>
 
 ---
+#### *umm... there's a snake here.. but it's kinda starving rn... but imma feed it well soon* 
 
-### 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/saumya-gupta-4385452a4/) 
+![snake gif](https://github.com/sgupta701/sgupta701/blob/output/github-snake-dark.svg)
 
 ---
 
-![snake gif](https://github.com/sgupta701/sgupta701/blob/output/github-snake-dark.svg)
+### 📫 Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saumya-gupta-4385452a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gupta.sg003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/sgupta701" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
 
 <p align="center" style="font-style: italic; color: gray;">
   <em>Always learning. Always shipping.</em>
