@@ -2,6 +2,10 @@
 > *...just another node, but with a purpose*
 ---
 
+![Ghibli vibe](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
+
+
+
 ### 🎯 Learning and Skills
 
 Currently exploring:  
