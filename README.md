@@ -37,7 +37,9 @@ Building it using OpenCV, MediaPipe, and deep learning — and training it on a 
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/saumya-gupta-4385452a4/) · [Email](mailto:gupta.sg003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saumya-gupta-4385452a4/) 
+
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="750" height="300" />
 
 ---
 
