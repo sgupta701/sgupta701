@@ -29,7 +29,7 @@ Comfortable with:
 <summary><strong>Hands2Text</strong> — Real-time ASL Sign-to-Text converter</summary>
 
 A tool that captures American Sign Language gestures and converts them into text in real time.  
-Building it using OpenCV, MediaPipe, and deep learning — and training it on a custom dataset I collected and labeled myself for higher accuracy.
+Building it using OpenCV, MediaPipe, and deep learning — and training it on a custom dataset i collected and labeled myself for higher accuracy.
 
 </details>
 
