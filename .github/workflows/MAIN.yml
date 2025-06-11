@@ -42,7 +42,7 @@ jobs:
 
       # Step 1: Checkout the repository
 
-      - name: sgupta701
+      - name: Checkout Repository
 
         uses: actions/checkout@v3
 
@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.sgupta701 }}
 
 
 
@@ -80,7 +80,7 @@ jobs:
 
       # Step 3: Deploy the generated files to the 'output' branch
 
-      - name: Deploy to Output Branch
+      - name: Deploy to output Branch
 
         uses: peaceiris/actions-gh-pages@v3
 
