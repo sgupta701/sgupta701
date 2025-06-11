@@ -1,11 +1,10 @@
-# Hi✌️ I am saumya... <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
-> *...just another node, but with a purpose*
+# Hi✌️ I am saumya... <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="40">
+> *...just another node, but with a purpose* 
 ---
 
 ![image](https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98)
 
 ### 🎯 Learning and Skills
-
 ---
 
 Currently exploring:  
@@ -31,7 +30,7 @@ Comfortable with:
 
 ---
 
-### 🚧 Currently building:
+### 🚧 Currently building: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="35">&nbsp; 
 
 <details>
 <summary><strong>Hands2Text</strong> — Real-time ASL Sign-to-Text converter</summary>
@@ -46,8 +45,6 @@ Building it using OpenCV, MediaPipe, and deep learning — and training it on a 
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/saumya-gupta-4385452a4/) 
-
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="850" height="300" />
 
 ---
 
