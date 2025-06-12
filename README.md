@@ -73,8 +73,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
   <em>Always learning. Always shipping.</em>
 </p>
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
+---
 
 
 
