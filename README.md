@@ -59,7 +59,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
   <a href="https://www.linkedin.com/in/saumya-gupta-4385452a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:gupta.sg003@gmail.com" target="_blank">
+  <a href="gupta.sg003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/sgupta701" target="_blank">
