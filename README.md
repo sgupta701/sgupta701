@@ -61,8 +61,8 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgupta701&theme=react-dark&hide_border=true" width=700>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgupta701&theme=codeSTACKr" width = 220>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgupta701&theme=react-dark&hide_border=true" width=690>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgupta701&theme=codeSTACKr" width = 210>
 </p>
 
 ---
