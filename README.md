@@ -53,11 +53,22 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 
 ---
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sgupta701&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgupta701&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-gupta-4385452a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=yellow" alt="LinkedIn">
   </a>
   <a href="mailto:gupta.sg003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
