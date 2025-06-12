@@ -34,7 +34,7 @@ Comfortable with:
 ### 🚧 Currently building: <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
 
 <details>
-<summary><strong>🚧 Hands2Text</strong> — Real-time ASL to Subtitles <sub>(click to expand)</sub></summary>
+<summary><strong> Hands2Text </strong> — Real-time ASL to Subtitles <sub>(click to expand)</sub></summary>
 <br>
 A tool that turns ASL gestures into live, readable subtitles — not just alphabets, but full dynamic gestures.
 
