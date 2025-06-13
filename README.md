@@ -30,7 +30,6 @@ Comfortable with:
 </p>
 
 ---
-
 ### 🚧 Currently building: <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
 
 <details>
@@ -52,7 +51,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 ![snake gif](https://github.com/sgupta701/sgupta701/blob/output/github-snake-dark.svg)
 
 ---
-## GitHub Stats
+##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">&nbsp; GitHub Stats
 <p align="center">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=sgupta701&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
@@ -67,7 +66,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 
 ---
 
-### 📫 Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+### 📫 Let's Connect! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30"> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-gupta-4385452a4/" target="_blank">
