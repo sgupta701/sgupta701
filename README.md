@@ -53,15 +53,15 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 ---
 ##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">&nbsp; GitHub Stats
 <p align="center">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=sgupta701&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
+  <img width="46.5%"  src="https://github-readme-stats.vercel.app/api?username=sgupta701&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgupta701&theme=react-dark&hide_border=true" width=660>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgupta701&theme=codeSTACKr" width = 180>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgupta701&theme=radical&hide_border=true" width="612">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgupta701&theme=radical&hide_border=true" width="228">
 </p>
 
 ---
