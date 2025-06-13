@@ -6,7 +6,7 @@
 
 ---
 
-### 🎯 Learning and Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="35">&nbsp; 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45"> Learning and Skills 
 
 Currently exploring:  
 **Generative AI**, **LangChain**, **Deep Learning**
@@ -30,7 +30,7 @@ Comfortable with:
 </p>
 
 ---
-### 🚧 Currently building: <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30">
+## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="35"> Currently building: 
 
 <details>
 <summary><strong> Hands2Text </strong> — Real-time ASL to Subtitles <sub>(click to expand)</sub></summary>
@@ -66,7 +66,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 
 ---
 
-### 📫 Let's Connect! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30"> 
+## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="33">  Let's Connect! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-gupta-4385452a4/" target="_blank">
