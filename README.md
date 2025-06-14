@@ -1,4 +1,4 @@
-# Hi✌️ I am saumya... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;
+# Hi✌️ I am saumya... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="44">&nbsp;
 > *...just another node, but with a purpose*
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45"> Learning and Skills 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="49"> Learning and Skills 
 
 Currently exploring:  
 **Generative AI**, **LangChain**, **Deep Learning**
@@ -30,7 +30,7 @@ Comfortable with:
 </p>
 
 ---
-## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="35"> Currently building: 
+## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="39"> Currently building: 
 
 <details>
 <summary><strong> Hands2Text </strong> — Real-time ASL to Subtitles <sub>(click to expand)</sub></summary>
@@ -51,7 +51,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 ![snake gif](https://github.com/sgupta701/sgupta701/blob/output/github-snake-dark.svg)
 
 ---
-##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">&nbsp; GitHub Stats
+##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="44"> GitHub Stats
 <p align="center">
   <img width="46.5%"  src="https://github-readme-stats.vercel.app/api?username=sgupta701&show_icons=true&theme=radical&hide_border=true" />
   <img width="49.5%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
@@ -66,7 +66,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="33">  Let's Connect! 
+## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="41">  Let's Connect! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-gupta-4385452a4/" target="_blank">
