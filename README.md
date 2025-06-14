@@ -2,6 +2,7 @@
 > *...just another node, but with a purpose*
 ---
 
+
 <img src="https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98" height="220" width="1000">
 
 ---
