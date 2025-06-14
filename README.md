@@ -54,7 +54,7 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 ##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="44"> GitHub Stats
 <p align="center">
   <img width="46.5%"  src="https://github-readme-stats.vercel.app/api?username=sgupta701&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49.5%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
+  <img width="49.2%" src="https://streak-stats.demolab.com?user=sgupta701&theme=radical&hide_border=true" />
 </p>
 
 ---
