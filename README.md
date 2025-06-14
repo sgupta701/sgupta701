@@ -21,8 +21,8 @@ Comfortable with:
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
   <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge" />
   <img alt="PyAutoGUI" src="https://img.shields.io/badge/pyautogui-A020F0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="CNN" src="https://img.shields.io/badge/CNN-FF1493?style=for-the-badge" />
