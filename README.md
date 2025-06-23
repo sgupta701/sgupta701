@@ -3,7 +3,6 @@
 ---
 <img src="https://github.com/user-attachments/assets/f60cfe26-101a-45f4-b277-f052296cff98" height="220" width="1000">
 ---
-
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="49"> Learning and Skills 
 
 Currently exploring:  
