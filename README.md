@@ -22,11 +22,15 @@ Comfortable with:
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
+</p>
+
+<!--
+  
   <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge" />
   <img alt="PyAutoGUI" src="https://img.shields.io/badge/pyautogui-A020F0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="CNN" src="https://img.shields.io/badge/CNN-FF1493?style=for-the-badge" />
   <img alt="MLP" src="https://img.shields.io/badge/MLP-00CED1?style=for-the-badge" />
-</p>
+-->
 
 ---
 ## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="39"> Currently building: 
