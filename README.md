@@ -41,7 +41,7 @@ Comfortable with:
 A tool that turns ASL gestures into live, readable subtitles — not just alphabets, but full dynamic gestures.
 
 - ✋ Recognizes full ASL dynamic gestures 
-- 🧠 Converts gesture sequences into full English sentences
+- 🧠 Converts gesture sequences into full English sentences 
 - 🫶 Makes ASL understandable to non-signers
 - 🎥 Using OpenCV, MediaPipe, and deep learning
    
