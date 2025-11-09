@@ -48,9 +48,6 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 </details>
 
 ---
-
-#### *umm... the snake is kinda starving... but i'll feed it well soon* 
-
 ![snake gif](https://github.com/sgupta701/sgupta701/blob/output/github-snake-dark.svg)
 
 ---
