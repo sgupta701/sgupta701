@@ -28,10 +28,10 @@
  
 ---
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="39"> Projects: 
 
 <details>
-<summary><strong> 🧠 NEURA </strong> — Chat to Action Multi-Task Execution System <sub>(click to expand)</sub></summary>
+<summary><strong> NEURA </strong> — Chat to Action Multi-Task Execution System <sub>(click to expand)</sub></summary>
 <br>
 A full-stack web app that splits, classifies, and routes natural language commands into real-time executable tasks (e.g., playing music, scheduling events, sending AI-generated emails).
 <br><br>
@@ -41,7 +41,7 @@ A full-stack web app that splits, classifies, and routes natural language comman
 </details>
 
 <details>
-<summary><strong> 📂 ArcLens </strong> — Unified Document Intelligence & Routing System <sub>(click to expand)</sub></summary>
+<summary><strong> ArcLens </strong> — Unified Document Intelligence & Routing System <sub>(click to expand)</sub></summary>
 <br>
 A full-stack RAG-based system to ingest, summarize, and route organizational documents across multiple formats using OCR and Transformers.
 <br><br>
@@ -51,7 +51,7 @@ A full-stack RAG-based system to ingest, summarize, and route organizational doc
 </details>
 
 <details>
-<summary><strong> 📓 StackNotes </strong> — Personal Dev Workspace <sub>(click to expand)</sub></summary>
+<summary><strong> StackNotes </strong> — Personal Dev Workspace <sub>(click to expand)</sub></summary>
 <br>
 A digital notebook for programmers to organize notes, code snippets, and screenshots in a secure, private workspace.
 <br><br>
