@@ -41,7 +41,7 @@ A full-stack web app that splits, classifies, and routes natural language comman
 </details>
 
 <details>
-<summary><strong> ArcLens </strong> — Unified Document Intelligence & Routing System <sub>(click to expand)</sub></summary>
+<summary><strong> Doclytic </strong> — Unified Document Intelligence & Routing System <sub>(click to expand)</sub></summary>
 <br>
 A full-stack RAG-based system to ingest, summarize, and route organizational documents across multiple formats using OCR and Transformers.
 <br><br>
