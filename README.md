@@ -105,6 +105,9 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
   <a href="https://github.com/sgupta701" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://saumyagupta-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
