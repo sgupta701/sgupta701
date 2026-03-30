@@ -110,7 +110,13 @@ A tool that turns ASL gestures into live, readable subtitles — not just alphab
 ---
 
 <p align="center" style="font-style: italic; color: gray;">
-  <em>Always learning. Always shipping.</em>
+  <em>Always learning. Always shipping.</em>
+</p>
+
+<p align="right">
+  <a href="https://github.com/sgupta701">
+    <img src="https://komarev.com/ghpvc/?username=sgupta701&style=flat-square&color=20232a&label=👁️" width="45" alt="Profile views">
+  </a>
 </p>
 
 ---
