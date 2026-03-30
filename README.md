@@ -56,7 +56,7 @@ A full-stack RAG-based system to ingest, summarize, and route organizational doc
 A digital notebook for programmers to organize notes, code snippets, and screenshots in a secure, private workspace.
 <br><br>
 
-- **Stack:** React, TypeScript, Go, MongoDB, JWT Auth
+- **Stack:** React, TypeScript, Go, MongoDB, JWT Auth 
 </details>
 
 ---
