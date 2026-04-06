@@ -31,6 +31,25 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="39"> Projects: 
 
 <details>
+<summary><strong> Doclytic </strong> — Swytch.sh - A tag team pictionary game <sub>(click to expand)</sub></summary>
+<br>
+This is a multiplayer drawing relay game where two artists must collaborate in 20-second swytches' to illustrate a secret word. 
+<br><br>
+
+- **Stack:** React, Node.js, Express, Socket.IO 
+</details>
+
+<details>
+<summary><strong> Doclytic </strong> — Unified Document Intelligence & Routing System <sub>(click to expand)</sub></summary>
+<br>
+Unified document intelligence system to extract, classify, summarize (4 summarizer pipelines) and route documents automatically to relevant departments.
+<br><br>
+
+- **Stack:** React, Node.js, Express, Socket.IO, SQL
+- **ML Models:** RAG pipeline, Tesseract OCR, Hugging Face Transformers
+</details>
+
+<details>
 <summary><strong> NEURA </strong> — Chat to Action Multi-Task Execution System <sub>(click to expand)</sub></summary>
 <br>
 A full-stack web app that splits, classifies, and routes natural language commands into real-time executable tasks (e.g., playing music, scheduling events, sending AI-generated emails).
@@ -38,16 +57,6 @@ A full-stack web app that splits, classifies, and routes natural language comman
 
 - **Stack:** React, FastAPI, Python, Google OAuth/APIs
 - **ML Models:** DistilBERT (intent classification), Mistral via Ollama (email generation)
-</details>
-
-<details>
-<summary><strong> Doclytic </strong> — Unified Document Intelligence & Routing System <sub>(click to expand)</sub></summary>
-<br>
-A full-stack RAG-based system to ingest, summarize, and route organizational documents across multiple formats using OCR and Transformers.
-<br><br>
-
-- **Stack:** React, Node.js, Express, Socket.IO, SQL, Elastic Search
-- **ML Models:** RAG pipeline, Tesseract OCR, Hugging Face Transformers
 </details>
 
 <details>
