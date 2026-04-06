@@ -31,7 +31,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="39"> Projects: 
 
 <details>
-<summary><strong> Doclytic </strong> — Swytch.sh - A tag team pictionary game <sub>(click to expand)</sub></summary>
+<summary><strong> Swytch.sh </strong> — A tag team pictionary game <sub>(click to expand)</sub></summary>
 <br>
 This is a multiplayer drawing relay game where two artists must collaborate in 20-second swytches' to illustrate a secret word. 
 <br><br>
