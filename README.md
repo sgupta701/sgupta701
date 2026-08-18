@@ -46,7 +46,7 @@ Unified document intelligence system to extract, classify, summarize (4 summariz
 <br><br>
 
 - **Stack:** React, Node.js, Express, Socket.IO, SQL
-- **ML Models:** RAG pipeline, Tesseract OCR, Hugging Face Transformers
+- **ML Models:** RAG pipeline, Tesseract OCR, Hugging Face Transformers 
 </details>
 
 <details>
